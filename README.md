@@ -61,8 +61,7 @@ The dataset used in this project includes metadata of 5000 movies from TMDB (The
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/movierecommender.git
-    cd movierecommender
+    git clone https://github.com/manishKrMahto/Movie-Recommender-system.git
     ```
 
 2. **Install Dependencies**:
